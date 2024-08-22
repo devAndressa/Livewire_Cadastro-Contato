@@ -72,8 +72,12 @@ O desafio proposto para este projeto com o nome de ContactApp foi para o treinam
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/devAndressa/Livewire-Introducao/blob/main/imagens/livewire.png)
-)<br>
+![Mobile1](https://github.com/devAndressa/Livewire_Cadastro-Contato/blob/main/imagens/telaInicial%20.png)
+![Mobile2](https://github.com/devAndressa/Livewire_Cadastro-Contato/blob/main/imagens/AvisoDeErro.png)
+![Mobile3](https://github.com/devAndressa/Livewire_Cadastro-Contato/blob/main/imagens/CadastradoComSucesso.png)
+
+
+
 
 
 ---
